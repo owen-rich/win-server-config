@@ -3,8 +3,6 @@
 ## Lab Mission
 Promote GUI and non-GUI Windows servers to domain controllers and add clients.
 
-## Lab Duration
-30–60 minutes
 
 ## Requirements
 - Knowledge of Oracle VirtualBox
